@@ -1,5 +1,5 @@
 # FarmCV Sell - Crop Disease Detection using EfficientNetV2
-# Author: Mohit Choudhari
+# Author: Mohit Choudhari.
 
 import os
 import random
